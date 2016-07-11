@@ -1,4 +1,4 @@
 # hello-world
-My first (sort-of) repository
+My first repository
 
-My name is Sean. This is my first repository.
+My name is Sean Griffin. This is my first repository. I'm still trying to learn.
